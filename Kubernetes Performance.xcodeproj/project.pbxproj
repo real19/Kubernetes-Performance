@@ -10,9 +10,9 @@
 		9003F22A23FAFA1200527DD1 /* Stats.m in Sources */ = {isa = PBXBuildFile; fileRef = 9003F22923FAFA1200527DD1 /* Stats.m */; };
 		9003F22D23FBB24A00527DD1 /* ChartDataProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = 9003F22C23FBB24A00527DD1 /* ChartDataProvider.m */; };
 		9003F23023FBB9D600527DD1 /* Constants.m in Sources */ = {isa = PBXBuildFile; fileRef = 9003F22F23FBB9D600527DD1 /* Constants.m */; };
+		9003F23223FBD6FA00527DD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9052491323FA7D9100240B08 /* Assets.xcassets */; };
 		9052490F23FA7D8C00240B08 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9052490E23FA7D8C00240B08 /* AppDelegate.m */; };
 		9052491223FA7D8C00240B08 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9052491123FA7D8C00240B08 /* ViewController.m */; };
-		9052491423FA7D9100240B08 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9052491323FA7D9100240B08 /* Assets.xcassets */; };
 		9052491723FA7D9100240B08 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9052491523FA7D9100240B08 /* Main.storyboard */; };
 		9052491A23FA7D9100240B08 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9052491923FA7D9100240B08 /* main.m */; };
 		F770FDDE4B620A516D48F234 /* Pods_Kubernetes_Performance.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1FFE52363D1DA6E330C14EE /* Pods_Kubernetes_Performance.framework */; };
@@ -169,7 +169,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9052491423FA7D9100240B08 /* Assets.xcassets in Resources */,
+				9003F23223FBD6FA00527DD1 /* Assets.xcassets in Resources */,
 				9052491723FA7D9100240B08 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
