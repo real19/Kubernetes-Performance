@@ -1,3 +1,4 @@
+![](/screenshots/app_logo.png)
 # Kubernetes-Performance
 Kubernetes Performance Display macOS app for CPU and Memory Usage on Mac OS built using Objective C.
 
